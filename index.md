@@ -97,6 +97,10 @@ EdNovas is the best!
 
 让信息流动无阻碍，让世界更紧密相连！
 
+[<font size="5">FurYun</font>](sponsor/sponsor_18.html)
+
+小流量套餐
+
 ***
 
 <span id="contents"></span>
